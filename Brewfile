@@ -3,8 +3,6 @@ tap "homebrew/cask"
 
 brew "git"
 brew "wget"
-brew "python", link: false
-brew "node"
 
 cask "google-chrome"
 cask "visual-studio-code"
