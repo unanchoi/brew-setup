@@ -4,8 +4,9 @@ tap "homebrew/cask"
 brew "git"
 brew "mas"
 brew "wget"
-brew "docker"
 
+
+cask "docker"
 cask "google-chrome"
 cask "visual-studio-code"
 cask "slack"
