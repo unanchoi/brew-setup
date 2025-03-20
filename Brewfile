@@ -12,6 +12,7 @@ cask "visual-studio-code"
 cask "slack"
 cask "raycast"
 cask "warp"
+cask "obsidian"
 
 mas "KakaoTalk", id: 869223134 # Kakaotalk
 mas "Xcode", id: 497799835 # Mac App Store의 Xcode
