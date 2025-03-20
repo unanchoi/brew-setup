@@ -5,7 +5,7 @@ brew "git"
 brew "mas"
 brew "wget"
 
-
+cask "notion"
 cask "docker"
 cask "google-chrome"
 cask "visual-studio-code"
