@@ -13,6 +13,7 @@ cask "slack"
 cask "raycast"
 cask "warp"
 cask "obsidian"
+casl "intellij-idea"
 cask "rectangle"
 
 mas "KakaoTalk", id: 869223134 # Kakaotalk
