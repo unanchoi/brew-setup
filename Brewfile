@@ -15,8 +15,12 @@ cask "slack"
 cask "raycast"
 cask "warp"
 cask "obsidian"
-casl "intellij-idea"
 cask "rectangle"
+# Jetbrain
+cask "intellij-idea"
+cask "datagrip"
+cask "pycharm"
+
 
 mas "KakaoTalk", id: 869223134 # Kakaotalk
 mas "Xcode", id: 497799835 # Mac App Store의 Xcode
