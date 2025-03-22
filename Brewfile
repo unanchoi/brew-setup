@@ -5,6 +5,7 @@ brew "git"
 brew "mas"
 brew "wget"
 brew "uv"
+brew "bottom"
 
 cask "notion"
 cask "docker"
