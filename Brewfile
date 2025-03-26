@@ -16,6 +16,7 @@ cask "raycast"
 cask "warp"
 cask "obsidian"
 cask "rectangle"
+cask "postman"
 # Jetbrain
 cask "intellij-idea"
 cask "datagrip"
