@@ -17,6 +17,7 @@ cask "warp"
 cask "obsidian"
 cask "rectangle"
 cask "postman"
+cask "grandperspective"
 # Jetbrain
 cask "intellij-idea"
 cask "datagrip"
