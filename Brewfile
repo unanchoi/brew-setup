@@ -7,6 +7,8 @@ brew "wget"
 brew "uv"
 brew "bottom"
 
+cask "obsidian"
+cask "sublime-text"
 cask "notion"
 cask "docker"
 cask "google-chrome"
